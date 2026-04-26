@@ -47,7 +47,7 @@ async function test() {
           console.log("Segment URL:", segmentUrl);
           
           const res5 = await fetch(segmentUrl, {
-            headers: { 'Referer': 'https://khfullhd.co/' }
+            headers: { 'Referer': 'test' }
           });
           const buffer = await res5.arrayBuffer();
           const bytes = new Uint8Array(buffer.slice(0, 16));
