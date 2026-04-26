@@ -4,7 +4,7 @@
 
 # Run and deploy your AI Studio app
 
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/samnangh849-source/check_Url)
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/samnangh849-source/Check_)
 
 This contains everything you need to run your app locally.
 
